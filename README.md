@@ -243,12 +243,4 @@ Through this project, I gained practical experience in:
 
 ---
 
-# 👨‍💻 Author
-
-**Akki Yaduvanshi**
-
-Aspiring Data Analyst passionate about transforming data into actionable business insights through analytics, visualization, and storytelling.
-
----
-
 ⭐ If you found this project useful, consider giving the repository a star.
